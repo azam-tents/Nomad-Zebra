@@ -1,1 +1,1 @@
-This is the repository for the Nomad Zebra optimization algortihm implemented on Saudi Arabia regional diabetes dataset. The Nomad Zebra optimization is proposed based on Zebra optimization which is a metaheuristic optimization.  
+This is the repository for the Nomad Zebra optimization algortihm implemented on Saudi Arabia regional diabetes dataset. The Nomad Zebra optimization is proposed based on Zebra optimization which is a metaheuristic optimization algorithtm.  
